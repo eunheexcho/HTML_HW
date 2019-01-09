@@ -15,7 +15,3 @@ while count <= 4:
     count = count + 1
 
 print("아쉽습니다. 정답은 %d였습니다." % (random_num))
-
-print("Eunhee")
-print("Cho")
-print("EH")
