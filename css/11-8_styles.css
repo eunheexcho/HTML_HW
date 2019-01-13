@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F0E8D9;
+}
+
+@font-face {
+    src: url("../font/BMJUA_ttf.ttf");
+    font-family: "Jua";
+}
+
+h1 {
+    font-size: 64px;
+    color: #58595B;
+    font-family: "Jua";
+    margin-top: 75px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+    color: #58595B;
+    font-family: "Jua";
+    margin-bottom: 75px;
+    text-align: center;
+}
+
+.big-box {
+    margin-bottom: 50px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    float: left;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.food {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 0px;
+}
+
+.white-box {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 0px;
+}
+
+.food-name {
+    font-size: 32px;
+    color: #58595B;
+    font-family: "Jua";
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.description {
+    font-size: 16px;
+    color: #58595B;
+    font-family: "Jua";
+    margin-bottom: 16px;
+}
+
+.link {
+    text-align: center;
+}
+
+.link a {
+    font-size: 16px;
+    color: #0000EE;
+    font-family: "Jua";
+    text-decoration: None;
+}
+
+.contents {
+    width: 660px;
+}
